@@ -27,8 +27,8 @@ Notes on things I learned & snippets of code that will make my life easier
 // how do I print to the console again?
 console.log("Hello World");
 
+### How to do an if statement
 ```javascript
-##How to do if statement
 //Example of an If statement
 if(x=y)
   console.log("we are equal")
