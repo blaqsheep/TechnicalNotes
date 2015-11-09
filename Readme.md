@@ -1,4 +1,4 @@
-# blaqsheep Technical Notes
+# Blaqsheep Technical Notes
 
 ## Workshops
 
@@ -7,6 +7,7 @@
 * Useful algoritms using functions (lodash)
 * How does a web application work?
 * Others?
+* Job Hunting
 
 ## Keep updated
 
