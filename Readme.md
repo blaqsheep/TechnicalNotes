@@ -25,6 +25,7 @@ Notes on things I learned & snippets of code that will make my life easier
 
 ```javascript
 // how do I print to the console again?
+console.log("Hello World");
 ```
 
 ### A note about something else
