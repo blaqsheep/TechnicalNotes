@@ -30,10 +30,12 @@ console.log("Hello World");
 ### How to do an if statement
 ```javascript
 //Example of an If statement
-if(x=y)
+if(x=y){
   console.log("we are equal")
-    else
-    console.log("we are not equal");
+  }
+else{
+  console.log("we are not equal");
+}
 ```
 ### A note about something else
 add more here...
