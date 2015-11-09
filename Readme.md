@@ -45,4 +45,3 @@ add more here...
 * [Todo something useful](notes/my_file.md) A short description here
 * [Create a basic Express app](notes/my_file.md) How to get going with express
 * [blaq_sheep](notes/blaq_sheep.md) BlaqSheep's link
-* [testing using mocha](notes/testing_mocha.md) Tesing with mocha
