@@ -1,4 +1,4 @@
-# My Technical Notes
+# blaqsheep Technical Notes
 
 ## Workshops
 
