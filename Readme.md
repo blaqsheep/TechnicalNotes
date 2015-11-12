@@ -1,3 +1,4 @@
+
 # Blaqsheep Technical Notes
 
 ## Workshops
@@ -37,6 +38,7 @@ else{
   console.log("we are not equal");
 }
 ```
+
 ### A note about something else
 add more here...
 
